@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0724-find-pivot-index](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0877-stone-game) |
 ## Math
 |  |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
