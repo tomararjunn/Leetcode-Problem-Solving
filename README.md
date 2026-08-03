@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0011-container-with-most-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
