@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0877-stone-game) |
 ## Math
 |  |
@@ -84,8 +85,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
