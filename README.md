@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0877-stone-game) |
 ## Dynamic Programming
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
 ## Prefix Sum
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0069-sqrtx) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
