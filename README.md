@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3731-find-missing-elements](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3731-find-missing-elements](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/3731-find-missing-elements) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0389-find-the-difference) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0125-valid-palindrome) |
+| [0389-find-the-difference](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0389-find-the-difference) |
 ## Greedy
 |  |
 | ------- |
