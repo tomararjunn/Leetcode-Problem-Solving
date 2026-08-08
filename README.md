@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0260-single-number-iii](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0704-binary-search) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0053-maximum-subarray) |
+| [0410-split-array-largest-sum](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0724-find-pivot-index) |
 ## String
 |  |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0410-split-array-largest-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
