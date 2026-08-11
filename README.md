@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1552-magnetic-force-between-two-balls) |
 | [3731-find-missing-elements](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Math
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1552-magnetic-force-between-two-balls) |
 | [3731-find-missing-elements](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Hash Table
