@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0877-stone-game) |
+| [2652-sum-multiples](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2652-sum-multiples) |
 ## Dynamic Programming
 |  |
 | ------- |
