@@ -18,19 +18,21 @@ class Solution {
                 if(height[left]>=leftmax){
                     leftmax=height[left];
                 }
-                else
-                {
+                else{
                     // Water = left wall - current height
                     water+=leftmax-height[left];
                 }
 
                 left++;
-            }else{
+            }
+            else{
                 // New highest right wall
                 if(height[right]>=rightmax){
                     rightmax=height[right];
+
                 }
                 else{
+                    // Water = right wall - current height
                     water+=rightmax-height[right];
                 }
                 right--;
