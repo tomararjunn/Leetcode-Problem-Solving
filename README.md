@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
+| [1550-three-consecutive-odds](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1550-three-consecutive-odds) |
 | [1552-magnetic-force-between-two-balls](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1552-magnetic-force-between-two-balls) |
 | [1672-richest-customer-wealth](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1672-richest-customer-wealth) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2108-find-first-palindromic-string-in-the-array) |
