@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1552-magnetic-force-between-two-balls) |
 | [2974-minimum-number-game](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -247,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2974-minimum-number-game) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
