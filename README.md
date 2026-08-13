@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0877-stone-game) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
