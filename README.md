@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1552-magnetic-force-between-two-balls) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2974-minimum-number-game](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2974-minimum-number-game) |
 | [3731-find-missing-elements](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1552-magnetic-force-between-two-balls) |
+| [2974-minimum-number-game](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2974-minimum-number-game) |
 | [3731-find-missing-elements](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0867-transpose-matrix) |
+| [2974-minimum-number-game](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2974-minimum-number-game) |
 ## Ternary Search
 |  |
 | ------- |
@@ -230,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
