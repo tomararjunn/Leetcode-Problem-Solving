@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1552-magnetic-force-between-two-balls) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2974-minimum-number-game) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0709-to-lower-case) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Greedy
 |  |
