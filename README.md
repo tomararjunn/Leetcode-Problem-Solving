@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0877-stone-game) |
 | [1486-xor-operation-in-an-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1486-xor-operation-in-an-array) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2652-sum-multiples) |
 ## Dynamic Programming
 |  |
