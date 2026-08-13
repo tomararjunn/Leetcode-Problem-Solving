@@ -9,7 +9,6 @@ class Solution {
                 add=add/10;
             }
         }
-        int ans=sum-digits;
-        return ans;
+        return sum-digits;
     }
 }
