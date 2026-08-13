@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1552-magnetic-force-between-two-balls) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2974-minimum-number-game) |
 | [3731-find-missing-elements](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/3731-find-missing-elements) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0877-stone-game) |
 | [1486-xor-operation-in-an-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2652-sum-multiples) |
 ## Dynamic Programming
 |  |
