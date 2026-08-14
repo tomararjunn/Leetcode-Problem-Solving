@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/3019-number-of-changing-keys) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Quicksort
 |  |
 | ------- |
