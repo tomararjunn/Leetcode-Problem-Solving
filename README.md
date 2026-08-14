@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0709-to-lower-case) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
