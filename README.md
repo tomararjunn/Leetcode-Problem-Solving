@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
+| [1470-shuffle-the-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1550-three-consecutive-odds) |
 | [1552-magnetic-force-between-two-balls](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1552-magnetic-force-between-two-balls) |
