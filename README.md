@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0567-permutation-in-string](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0389-find-the-difference) |
+| [0567-permutation-in-string](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0709-to-lower-case) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Quicksort
