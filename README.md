@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0389-find-the-difference) |
+| [0443-string-compression](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0709-to-lower-case) |
