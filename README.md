@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1550-three-consecutive-odds) |
 | [1552-magnetic-force-between-two-balls](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1552-magnetic-force-between-two-balls) |
 | [1672-richest-customer-wealth](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1672-richest-customer-wealth) |
+| [1833-maximum-ice-cream-bars](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1929-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1552-magnetic-force-between-two-balls) |
+| [1833-maximum-ice-cream-bars](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1833-maximum-ice-cream-bars) |
 | [2974-minimum-number-game](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/3731-find-missing-elements) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/0410-split-array-largest-sum) |
+| [1833-maximum-ice-cream-bars](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1833-maximum-ice-cream-bars) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -323,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1068-product-sales-analysis-i](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1068-product-sales-analysis-i) |
 | [1683-invalid-tweets](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1683-invalid-tweets) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/tomararjunn/Leetcode-Problem-Solving/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
